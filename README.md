@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abid Hussain</h1>
-<h3 align="center">self taught dev.</h3>
+<h1 align="center">Hi , I'm Abid Hussain</h1>
+<h3 align="right">self taught Dev.</h3>
 
 - 🔭 I’m currently working on **nothing**
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://op10y.github.io/webdev/](https://op10y.github.io/webdev/)
 
-- ⚡ Fun fact **I'm lit3l KrAzzzy**
+- ⚡ Fun fact <h3 align="right">**I'm lit3l KrAzzzy**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
