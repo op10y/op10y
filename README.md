@@ -1,5 +1,6 @@
-- whoami, Abid Hussain AKA opty
-- 
+<!---
+whoami, Abid Hussain AKA opty
+--->
 
 <!---
 op10y/op10y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
