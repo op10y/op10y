@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javaScript, flutter**
 
-<h5 align="right">email : blurnonymous@gmail.com</h5>
+- 📫 How to reach me **blurnonymous@gmail.com**
 
 - 📄 Know about my experiences [https://op10y.github.io/webdev/](https://op10y.github.io/webdev/)
 
@@ -28,3 +28,8 @@
 op10y/op10y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+
+
