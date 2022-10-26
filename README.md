@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **javaScript, flutter**
 
-- 📫 How to reach me **blurnonymous@gmail.com**
+- 📫 How to reach me <h5 align="right">blurnonymous@gmail.com</h5>
 
 - 📄 Know about my experiences [https://op10y.github.io/webdev/](https://op10y.github.io/webdev/)
 
--  <h3 align="right">⚡ Fun fact **I'm lit3l KrAzzzy**</h3>
+-  <h3 align="right">⚡ Fun fact I'm lit3l KrAzzzy</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
