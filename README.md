@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javaScript, flutter**
 
-- 📫 How to reach me <h5 align="right">blurnonymous@gmail.com</h5>
+<h5 align="right">email : blurnonymous@gmail.com</h5>
 
 - 📄 Know about my experiences [https://op10y.github.io/webdev/](https://op10y.github.io/webdev/)
 
