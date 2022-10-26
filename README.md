@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://op10y.github.io/webdev/](https://op10y.github.io/webdev/)
 
-- ⚡ Fun fact <h3 align="right">**I'm lit3l KrAzzzy**</h3>
+-  <h3 align="right">⚡ Fun fact **I'm lit3l KrAzzzy**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
