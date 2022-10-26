@@ -1,6 +1,6 @@
 ----------------whoami----------------
--        Abid Hussain
--        OPTY
+-        Abid Hussain Dar
+-        https://op10y.github.io/webdev/
 
 <!---
 op10y/op10y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
