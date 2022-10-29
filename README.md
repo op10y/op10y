@@ -1,4 +1,4 @@
-<p><h5 align=center>Hay there, I'm,</h5><h1 align=center>Abid Hussain</h1></p>
+<p><h5 align=center>Hay there, I'm</h5><h1 align=center>Abid Hussain</h1></p>
 <img align=right width="50%" opacity="60%" src=https://github.com/op10y/op10y/blob/main/opty.png></p>
 
 
