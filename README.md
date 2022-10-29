@@ -1,5 +1,5 @@
 <p><h5 align=center>Hay there, I'm</h5><h1 align=center>Abid Hussain</h1></p>
-<p><img align=left width="50%" src=[https://github.com/op10y/op10y/blob/main/opty.png](https://github.com/op10y/profile-card/blob/rootX/finalview.jpg)> <img align=right width="30%" opacity="60%" src=https://github.com/op10y/op10y/blob/main/opty.png></p>
+<p><img align=left width="50%" src=https://github.com/op10y/profile-card/blob/rootX/finalview.jpg><img align=right width="30%" opacity="60%" src=https://github.com/op10y/op10y/blob/main/opty.png></p>
 
 
 <!---
