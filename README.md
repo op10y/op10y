@@ -1,4 +1,4 @@
-<p><h5 align=center>Hay there, I'm</h5><h1 align=center>Abid Hussain</h1></p>
+
 <p><img align=left width="50%" src=https://github.com/op10y/profile-card/blob/rootX/finalview.jpg><-----recent work</p>
 
 
