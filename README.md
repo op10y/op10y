@@ -1,6 +1,6 @@
-<p><img align=left width="40%" src=https://github.com/op10y/side_nav_bar/blob/rootX/Sc.jpg>..using tailwindcss
+<p><img align=left width="40%" src=https://github.com/op10y/side_nav_bar/blob/rootX/Sc.jpg><<<......using tailwindcss
   
-  <p><img align=right width="20%" src=https://github.com/op10y/optyx.com/blob/rootX/files/opnip.jpg><...then Added side Nav bar </P>
+  <p><img align=right width="20%" src=https://github.com/op10y/optyx.com/blob/rootX/files/opnip.jpg> then Added side Nav bar...>>>> </P>
                                                                                                               
 
 
