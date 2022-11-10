@@ -1,7 +1,6 @@
 
-<p><img align=left width="50%" src=https://github.com/op10y/profile-card/blob/rootX/finalview.jpg><-----recent work</p>
   
-  <p><img align=right width="50%" src=https://github.com/op10y/optyx.com/blob/rootX/files/opnip.jpg><...Added side Nav bar 
+  <p><img align=right width="20%" src=https://github.com/op10y/optyx.com/blob/rootX/files/opnip.jpg><...Added side Nav bar 
                                                                                                               
 
 
