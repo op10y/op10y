@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abid Hussain</h1>
 <h3 align="center">self taught dev.</h3>
 
-- 👨‍💻 All my projects are available at [op10y.github.io/optyx.com](op10y.github.io/optyx.com)
+- 👨‍💻 All my projects are available at [www.optyx.com](https://op10y.github.io/optyx.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
