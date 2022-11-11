@@ -31,7 +31,7 @@
     </p>
  </samp>
 </div>
-
+</details>
   <details> 
   <summary>💻 Github Profile Stats</summary>
   <div>
