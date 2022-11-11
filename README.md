@@ -23,5 +23,12 @@
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="optyx" height="30"/></a>
      </p>
+    <p align="center">
+      <a href="mailto:blurnonymous@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="blur" height="30"/></a>
+      
+      <br>
+    </p>
  </samp>
 </div>
