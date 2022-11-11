@@ -19,10 +19,9 @@
      <a href="https://fb.com/abidhussaindar" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="opty" height="30"/></a>
-      <a href="https://instagram.com/0ptyx" target="blank"><img align="center" 
-     src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="insta"/></a>
-      <a href="mailto:blurnonymous@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="optysmail" height="30"/></a>
-      </p>
+      <a href="https://instagram.com/0ptyx" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="optyx" height="30"/></a>
+     </p>
+ </samp>
+</div>
