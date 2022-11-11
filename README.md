@@ -15,7 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=op10y&show_icons=true&locale=en&layout=compact&background=black" alt="op10y" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=op10y&show_icons=true&locale=en" alt="op10y" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=op10y&show_icons=true&locale=en&layout=compact&background=black" alt="op10y" /></p>
 
 <!---
 op10y/op10y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
