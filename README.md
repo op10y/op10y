@@ -33,10 +33,10 @@
 </div>
 
   <details> 
-  <summary>💻 Status</summary>
+  <summary>💻 Github Profile Stats</summary>
   <div>
   <samp>
-    <h2 align="center"> Github status </h2>
+    <h2 align="center"> Github stats </h2>
       <br/>
     <details open>
   <summary><h3>Languages</h3></summary>
