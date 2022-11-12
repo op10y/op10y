@@ -3,7 +3,7 @@
   <h4 align="center">a self taught developer, cs prof. & Digital artist my <a href="https://github.com/op10y/" target="_blank">resume</a></h4>
 </div>
 <div align="center">
-  <a href="https://op10y.github.io/optyx.com/">
+  <a href="https://op10y.github.io/profile-card/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
