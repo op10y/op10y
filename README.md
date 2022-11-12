@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Abid</h1>
-  <h4 align="center">a self taught developer, engineer, see my <a href="https://github.com/op10y/" target="_blank">resume</a> for more</h4>
+  <h4 align="center">a self taught developer, cs prof. & Digital artist my <a href="https://github.com/op10y/" target="_blank">resume</a></h4>
 </div>
 <div align="center">
   <a href="https://op10y.github.io/optyx.com/">
