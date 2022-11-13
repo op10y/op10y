@@ -42,7 +42,7 @@
   <summary><h3>Languages used by op10y</h3></summary>
             <p align="center">
         <a href="https://github.com/op10y/">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=op10y&langs_count=10&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="100%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=op10y&langs_count=10&theme=gruvbox&layout=compact&hide_border=true"
           alt="opty :: Top op's Langs " /></a>
       </p>
     
