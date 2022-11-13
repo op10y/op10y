@@ -40,7 +40,7 @@
             <img width="25.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=op10y&langs_count=10&theme=highcontrast&layout=compact"
           alt="opty :: Top op's Langs " />
           <img width="30.5%" src="https://github-readme-stats.vercel.app/api?username=op10y&show_icons=true&theme=highcontrast&hide=issues=true" />
-          <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=op10y&theme=highcontrast" />
+          <img width="30.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=op10y&theme=highcontrast" />
           </a>
        </p>
      <br>
