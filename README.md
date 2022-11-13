@@ -32,15 +32,9 @@
  </samp>
 </div>
 </details>
-  <details> 
-  <summary>💻 Github Profile Stats</summary>
+<br>
   <div>
   <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    
- <details open>
-  <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/op10y/">
             <img width="25.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=op10y&langs_count=10&theme=highcontrast&layout=compact"
@@ -53,7 +47,7 @@
      </samp>
   </div>    
 </details>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=op10y&repo=github-readme-stats)](https://github.com/op10y/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=op10y&thinkswell=github-readme-stats)](https://github.com/op10y/github-readme-stats)
 
   -----
 Credits: [op](https://op10y.github.io/optyx.com/)
