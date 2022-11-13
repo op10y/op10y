@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/op10y/op10y/blob/output/github-contribution-grid-snake.svg"#gh-dark-mode-only>, I'm Abid</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/op10y/op10y/blob/output/github-contribution-grid-snake.svg"#gh-light-mode-only>, I'm Abid</h1>
   <h4 align="center">a self taught developer, cs prof. & Digital artist my <a href="https://github.com/op10y/" target="_blank">resume</a></h4>
 </div>
 <div align="center">
