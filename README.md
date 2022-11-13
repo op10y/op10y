@@ -47,7 +47,6 @@
      </samp>
   </div>    
 </details>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=op10y&thinkswell=github-readme-stats)](https://github.com/op10y/github-readme-stats)
 
   -----
-Credits: [op](https://op10y.github.io/optyx.com/)
+Credits: [op](https://op10y.github.io/profile-card/)
