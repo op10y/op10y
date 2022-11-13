@@ -51,8 +51,10 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/op10y/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=op10y&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=op10y&theme=gruvbox&hide_border=true" />
+            <img width="20.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=op10y&langs_count=10&theme=highcontrast&layout=compact&hide_border=true"
+          alt="opty :: Top op's Langs " />
+          <img width="20.5%" src="https://github-readme-stats.vercel.app/api?username=op10y&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="20.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=op10y&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
