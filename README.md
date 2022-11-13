@@ -48,6 +48,3 @@
   </div>    
 </details>
 
-  -----
-Credits: [op](https://op10y.github.io/profile-card/)
-
