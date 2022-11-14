@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <a href="https://op10y.github.io/profile-card/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/op10y/op10y/blob/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
 
