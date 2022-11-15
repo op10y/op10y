@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-  <h4 align="center">craxy developer<a href="https://github.com/op10y/resume/" target="_blank">--XD resume</a></h4>
+  <h4 align="center">craXy Dev.<a href="https://github.com/op10y/resume/" target="_blank">--XD resume</a></h4>
 </div>
 <div align="center">
   <a href="https://op10y.github.io/profile-card/">
