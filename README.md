@@ -1,6 +1,8 @@
 <div align="center">
-<h1 align="center">
+  <h1 align="center">I am Abid Hussain</h1>
   <h4 align="center">craXy Dev.<a href="https://github.com/op10y/resume/" target="_blank">--XD resume</a></h4>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 </div>
 <div align="center">
   <a href="https://op10y.github.io/profile-card/">
