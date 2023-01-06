@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">I am Abid Hussain</h1>
-  <h4 align="center">craXy Dev.<a href="https://drive.google.com/file/d/1jXFWsCI5A0DYL_cYHXOC9hDEB93igFeC/view?usp=sharing" target="_blank">--XD resume</a></h4>
+  <h4 align="center">craXy Dev.<a href="https://drive.google.com/file/d/1WPh3tzU3LrSWLjtjiQduZPlhDFJRRfSn/view?usp=sharing" target="_blank">--XD resume</a></h4>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
 </div>
